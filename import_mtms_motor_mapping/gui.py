@@ -99,7 +99,7 @@ class Window(wx.Dialog):
                                 "position": [y_offset, -x_offset, z_val],
                                 "orientation": [0.0, 0.0, -orientation],
                                 "color": color,
-                                "length": 0.3,
+                                "length": 0.1,
                                 "mtms": [x_offset, y_offset, orientation, 0.0],
                                 "mep_value": mep_value,
                                 "label": label
